@@ -1,0 +1,5 @@
+1	    banana	    20	 44
+2	    habhab	    35	    30
+3	    Apple	    75	  143
+4	    orange	    16	   0
+5	    grapes	    30	    90
